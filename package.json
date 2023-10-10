@@ -8,7 +8,7 @@
     "dragula": "3.7.2",
     "zone.js": "0.8.26",
     "ng2-dragula": "2.0.1",
-    "@angular/core": "6.0.0",
+    "@angular/core": "10.2.5",
     "@angular/forms": "6.0.0",
     "@angular/common": "6.0.0",
     "@angular/router": "6.0.0",
